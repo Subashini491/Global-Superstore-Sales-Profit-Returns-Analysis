@@ -78,14 +78,13 @@ To explore the dashboard interactively, download the PBIX file and open it using
 ## 🖥️ Dashboard Screenshots
 
 ### Page 1 — Sales Overview
-![Sales Overview](Sales_Overview.png)
+![Sales Overview](Sales%20Overview.png)
 
 ### Page 2 — Profit Analysis
-![Profit Analysis](Profit-Analysis.png)
+![Profit Analysis](Profit%20Analysis.png)
 
 ### Page 3 — Returns Analysis
-![Returns Analysis](Returns-Analysis.png)
-
+![Returns Analysis](Returns%20Analysis.png)
 ---
 
 ## 💼 Business Implications
